@@ -61,4 +61,4 @@ A collection of core data structures and algorithms implemented in Java — writ
 
 ---
 
-> *Written as part of my CS studies — a mix of lecture material, problem sheets, and late-night debugging sessions.*
+> *Written as part of my SE studies — a mix of lecture material, problem sheets, and late-night debugging sessions.*
